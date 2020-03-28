@@ -1,0 +1,1 @@
+print(("Kurt Cobain powiedział kiedyś: 'I'd rather be hated for who I am than loved for who I am not'"))
